@@ -1,4 +1,5 @@
 # Rajasthan Royals - Who Performs Under Pressure? | IPL 2027 Auction Analysis
+![Dashboard](1st%20page.png)
 
 This is my first competition entry for the Unstop x Rajasthan Royals Challenge.
 
@@ -34,3 +35,10 @@ Unstop x Rajasthan Royals Challenge | IIT Madras
 
 ---
 Built for IPL 2027 Auction Analysis
+## Dashboard Preview
+
+![Page 1](1st%20page.png)
+![Page 2](2nd%20page.png)
+![Page 3](3rd%20page.png)
+![Page 4](4th%20page.png)
+![Page 5](5th%20page.png)
